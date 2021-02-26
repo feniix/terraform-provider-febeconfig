@@ -7,13 +7,11 @@ require (
 	github.com/aws/aws-sdk-go v1.35.24 // indirect
 	github.com/hashicorp/go-multierror v1.1.0 // indirect
 	github.com/hashicorp/hcl/v2 v2.6.0 // indirect
-	github.com/hashicorp/terraform-plugin-docs v0.3.0
+	github.com/hashicorp/terraform-plugin-docs v0.4.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.4.0
 	github.com/mitchellh/mapstructure v1.3.3 // indirect
-	github.com/zclconf/go-cty v1.5.1 // indirect
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0 // indirect
 	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a // indirect
-	gopkg.in/yaml.v2 v2.3.0 // indirect
 	k8s.io/apimachinery v0.20.4
 )
 
